@@ -49,4 +49,4 @@ VALUES ("Butter Knife", "Kitchen", 4.77,25);
 INSERT INTO products (product_name,category_name, price, quantity)
 VALUES ("Soup Bowl", "Kitchen", 2.77,25);
 INSERT INTO products (product_name,category_name, price, quantity)
-VALUES ("Garden Trowel", "Kitchen", 14.88,25);
+VALUES ("Spork", "Kitchen", 45.77,25);
