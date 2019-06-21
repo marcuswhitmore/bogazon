@@ -5,7 +5,7 @@ CREATE DATABASE bogazon_DB;
 
 -- Change to Bogazon DB
 
-USE bamazon-DB;
+USE bamazon_DB;
 
 -- Create Table
 CREATE TABLE products(
@@ -16,3 +16,6 @@ CREATE TABLE products(
     quantity INT NULL,
 );
 
+-- Add Initial Products
+INSERT INTO products (product_name,category_name, price, quantity)
+VALUES ("Garden Trowel", "Garden", 14.88,25);
