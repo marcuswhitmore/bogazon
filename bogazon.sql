@@ -43,7 +43,7 @@ VALUES ("Oil Painting", "Home", 99.99,25);
 INSERT INTO products (product_name,category_name, price, quantity)
 VALUES ("Whisk", "Kitchen", 7.77,25);
 INSERT INTO products (product_name,category_name, price, quantity)
-VALUES ("Garden Trowel", "Kitchen", 14.88,25);
+VALUES ("Cast Iron Skillet", "Kitchen", 14.88,25);
 INSERT INTO products (product_name,category_name, price, quantity)
 VALUES ("Garden Trowel", "Kitchen", 14.88,25);
 INSERT INTO products (product_name,category_name, price, quantity)
