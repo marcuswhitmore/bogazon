@@ -27,10 +27,10 @@ VALUES ("Garden Clippers", "Garden", 4.88,25);
 INSERT INTO products (product_name,category_name, price, quantity)
 VALUES ("Garden Spade", "Garden", 21.88,25);
 INSERT INTO products (product_name,category_name, price, quantity)
-VALUES ("Garden Trowel", "Garden", 14.88,25);
+VALUES ("Garden Organic Pesticide", "Garden", 28.88,25);
 -- Home Items
 INSERT INTO products (product_name,category_name, price, quantity)
-VALUES ("Garden Trowel", "Garden", 14.88,25);
+VALUES ("Bath Towels", "Home", 5.99,25);
 INSERT INTO products (product_name,category_name, price, quantity)
 VALUES ("Garden Trowel", "Garden", 14.88,25);
 INSERT INTO products (product_name,category_name, price, quantity)
