@@ -38,7 +38,7 @@ VALUES ("Lawn Chair", "Home", 45.99,25);
 INSERT INTO products (product_name,category_name, price, quantity)
 VALUES ("Am Radio", "Home", 32.99,25);
 INSERT INTO products (product_name,category_name, price, quantity)
-VALUES ("Garden Trowel", "Garden", 14.88,25);
+VALUES ("Oil Painting", "Home", 99.99,25);
 -- Kitchen Items
 INSERT INTO products (product_name,category_name, price, quantity)
 VALUES ("Garden Trowel", "Garden", 14.88,25);
