@@ -5,7 +5,7 @@ CREATE DATABASE bogazon_DB;
 
 -- Change to Bogazon DB
 
-USE bamazon_DB;
+USE bogazon_DB;
 
 -- Create Table
 CREATE TABLE products(
